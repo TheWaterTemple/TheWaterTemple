@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning C#
 
-- 🍝 I like spaghetti
+- 🍕 I like pizza
